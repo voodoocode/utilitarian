@@ -1,7 +1,7 @@
-utilitarian
+Utilitarian
 ===========
 
-So library, much useful
+So library, much useful, wow frameworks
 
 * [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
 * [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com)
